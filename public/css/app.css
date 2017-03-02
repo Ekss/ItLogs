@@ -1,0 +1,939 @@
+.topsection1 {
+  background-color: #fff;
+  background-image: -webkit-radial-gradient(circle farthest-corner at 50% 50%, transparent, rgba(0, 0, 0, .67)), url('../images/12802324285_78bb66479d_h.jpg');
+  background-image: radial-gradient(circle farthest-corner at 50% 50%, transparent, rgba(0, 0, 0, .67)), url('../images/12802324285_78bb66479d_h.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-repeat: repeat, no-repeat;
+  background-attachment: scroll, fixed;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+}
+
+.topsection3 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: rgba(0, 0, 0, .62);
+}
+
+.midsection1 {
+  position: static;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.midsection2 {
+  margin-top: 180px;
+  margin-bottom: 150px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  background-image: url('../images/bigstock-French-food-on-a-wooden-backgr-90459386-848x500.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  letter-spacing: 9px;
+  text-transform: none;
+}
+
+.bottomsection2 {
+  background-color: #fff;
+}
+
+.bottomsection3 {
+  background-color: rgba(0, 0, 0, .67);
+}
+
+.toptitle {
+  margin: 0px;
+  padding-right: 0px;
+  background-color: hsla(0, 0%, 100%, .9);
+  font-family: 'Droid Sans', sans-serif;
+  color: #000;
+  text-align: center;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.toptitle:hover {
+  background-color: rgba(0, 0, 0, .67);
+  color: #fff;
+}
+
+.toptitlelink {
+  display: block;
+  margin-top: 250px;
+  margin-bottom: 250px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.midtxt {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: 215px 10px 20px;
+  padding: 0px;
+  background-color: rgba(0, 0, 0, .38);
+  opacity: 1;
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .82);
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.midtxt:hover {
+  -webkit-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+}
+
+.midimage {
+  display: block;
+}
+
+.midimage:hover {
+  -webkit-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+}
+
+.middiv1 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url('../images/3bae7f05-ba4c-4ede-8e1f-d3f112a46e76--2014-0218_genius_william-alexander-4-hour-baguette-745.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: 400;
+  text-align: center;
+}
+
+.middiv1:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.midtxt2 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 20px;
+  display: block;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-top: 0px;
+  background-color: rgba(0, 0, 0, .38);
+  -webkit-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .82);
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.midtxt2:hover {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.middiv2 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  padding-left: 0px;
+  background-image: url('../images/Croque-Monsieur-960x719.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+  text-align: center;
+}
+
+.middiv2:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.middiv3 {
+  position: relative;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: block;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-color: rgba(0, 0, 0, .38);
+  background-image: url('../images/STEAK-FRITES-WITH-CHIMICHURRI-SAUCE1-825x550.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+  color: hsla(0, 0%, 100%, .82);
+  text-align: center;
+}
+
+.middiv3:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.middiv4 {
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url('../images/recipe-image-legacy-id--53055_10.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+}
+
+.middiv4:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.middiv5 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url('../images/15365173696_c2cc1622f5.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+}
+
+.middiv5:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.middiv6 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url('../images/cheese-italian-web.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+}
+
+.middiv6:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.middiv7 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url('../images/IMG_7733-1024x929.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+}
+
+.middiv7:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.middiv8 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url('../images/EG6_EP67_Paris-Brest-720x405.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+}
+
+.middiv8:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.middiv9 {
+  position: relative;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: block;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-color: transparent;
+  background-image: url('../images/Holiday-macarons-01-SaltLakeCulinaryCenter.jpg');
+  background-position: 50% 50%;
+  background-size: 480px;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .82);
+  font-style: italic;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.middiv9:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.middiv10 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-color: rgba(0, 0, 0, .38);
+  background-image: url('../images/promo295288496.png');
+  background-position: 50% 50%;
+  background-size: auto;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .82);
+  font-style: italic;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.middiv10:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.midtxt3 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 20px;
+  display: block;
+  background-color: rgba(0, 0, 0, .38);
+  font-family: Exo, sans-serif;
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.midtxt4 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 20px;
+  display: block;
+  background-color: rgba(0, 0, 0, .38);
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .82);
+  font-style: italic;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.midtxt5 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 20px;
+  display: block;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: rgba(0, 0, 0, .38);
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .82);
+  font-style: italic;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.midtxt6 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 20px;
+  display: block;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: rgba(0, 0, 0, .38);
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .82);
+  font-style: italic;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.midtxt7 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 20px;
+  display: block;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: rgba(0, 0, 0, .38);
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .82);
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.midtxt8 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 20px;
+  display: block;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: rgba(0, 0, 0, .38);
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .82);
+  font-style: italic;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.midtxt9 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 20px;
+  display: block;
+  background-color: rgba(0, 0, 0, .38);
+}
+
+.midtxt10 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 20px;
+  display: block;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: rgba(0, 0, 0, .38);
+}
+
+.txthistory {
+  position: relative;
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  font-family: Exo, sans-serif;
+  font-size: 13px;
+  font-style: italic;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.historytitlecontainer {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.historytitleheading {
+  font-family: Exo, sans-serif;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 8px;
+}
+
+.menu {
+  display: block;
+}
+
+.divmenu {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: inline-block;
+}
+
+.menucontainer {
+  margin-bottom: 100px;
+  padding: 0px 390px;
+}
+
+.topsec3div1 {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+}
+
+.topsec3txt {
+  position: relative;
+  display: inline-block;
+  margin-right: 0px;
+  margin-left: 0px;
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .77);
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 5px;
+  text-transform: none;
+}
+
+.pariscultureimage {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: inline-block;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.topsec3par1 {
+  display: inline-block;
+  margin-bottom: 0px;
+  font-size: 14px;
+  text-align: justify;
+}
+
+.topsec3txt2 {
+  margin-top: 108px;
+  margin-bottom: 107px;
+  direction: ltr;
+  font-family: Exo, sans-serif;
+  color: hsla(0, 0%, 100%, .77);
+  font-style: italic;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: none;
+}
+
+.topsec3col1 {
+  left: 25px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: block;
+  margin-top: 155px;
+  margin-bottom: 155px;
+  text-align: center;
+}
+
+.topseccol2 {
+  position: relative;
+  left: 60px;
+  top: 20px;
+  right: 0px;
+  bottom: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.ingredientstxt {
+  position: relative;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: block;
+  font-family: Merriweather, serif;
+  color: #fff;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 1px 1px 0 #000;
+}
+
+.midsec2list {
+  display: block;
+  margin-right: auto;
+  margin-bottom: 250px;
+  margin-left: auto;
+}
+
+.listitem1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Droid Sans', sans-serif;
+  font-style: normal;
+  -webkit-column-count: 1;
+  -moz-column-count: 1;
+  column-count: 1;
+}
+
+.listitem2 {
+  font-family: 'Droid Serif', serif;
+  font-size: 14px;
+  font-style: normal;
+}
+
+.ingtitle {
+  font-family: 'Droid Serif', serif;
+}
+
+.divcheflogo {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.cheflogo {
+  position: relative;
+  left: 288px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: block;
+  text-align: left;
+}
+
+.cheflist {
+  margin-top: 80px;
+}
+
+.chef1 {
+  padding: 10px;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  border-radius: 115px;
+}
+
+.cheftxt {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 30px;
+  padding-right: 20px;
+  padding-left: 20px;
+  -webkit-box-ordinal-group: 1;
+  -webkit-order: 0;
+  -ms-flex-order: 0;
+  order: 0;
+  direction: ltr;
+  font-family: Exo, sans-serif;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 400;
+  text-align: justify;
+}
+
+.listitemchef {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+.link1 {
+  display: block;
+  padding-left: 0px;
+}
+
+.link2 {
+  display: block;
+}
+
+.link3 {
+  display: block;
+}
+
+.link4 {
+  display: block;
+}
+
+.link5 {
+  display: block;
+}
+
+.link6 {
+  display: block;
+}
+
+.link7 {
+  display: block;
+}
+
+.link8 {
+  display: block;
+}
+
+.link9 {
+  display: block;
+}
+
+.link10 {
+  display: block;
+}
+
+.divicons {
+  text-align: center;
+}
+
+.iconimage {
+  margin: 4px;
+}
+
+.email {
+  display: block;
+  margin-top: 10px;
+  padding: 7px;
+  font-family: Exo, sans-serif;
+  color: #000;
+  font-size: 17px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.contactinfo {
+  display: block;
+  margin-top: 0px;
+  padding: 5px;
+  font-family: Exo, sans-serif;
+  color: #000;
+  font-weight: 600;
+  text-align: center;
+}
+
+.backtotopbtn {
+  display: block;
+  overflow: auto;
+  max-height: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-left: 0px;
+  float: left;
+  border-radius: 30px;
+  box-shadow: inset 1px 1px 3px 0 #000;
+}
+
+.backtotopbtn.w--current {
+  display: inline-block;
+  background-color: hsla(0, 0%, 100%, 0);
+  background-image: url('../images/up-arrow-2.png');
+  background-position: 50% 50%;
+  background-size: 32px;
+}
+
+.backtotoplink.w--current {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  display: inline-block;
+  overflow: visible;
+  min-width: 0px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+
+.suggestionheading {
+  font-family: Exo, sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+.suggestionscontainer {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.submitbutton {
+  display: block;
+  margin-top: 0px;
+  background-color: rgba(54, 54, 54, .61);
+  -webkit-transition: background-color 500ms ease;
+  transition: background-color 500ms ease;
+  font-family: Exo, sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: none;
+  cursor: pointer;
+}
+
+.submitbutton:hover {
+  background-color: #363636;
+}
+
+.txtfield {
+  border: 3px solid #2f7399;
+}
+
+.suggestionlabel {
+  font-family: Exo, sans-serif;
+  color: rgba(51, 51, 51, .77);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+html.w-mod-js *[data-ix="load"] {
+  opacity: 0;
+  -webkit-transform: translate(-43px, 0px);
+  -ms-transform: translate(-43px, 0px);
+  transform: translate(-43px, 0px);
+}
+
+html.w-mod-js *[data-ix="slide-left"] {
+  opacity: 0;
+  -webkit-transform: translate(-100px, 0px);
+  -ms-transform: translate(-100px, 0px);
+  transform: translate(-100px, 0px);
+}
+
+html.w-mod-js *[data-ix="slide-right"] {
+  opacity: 0;
+  -webkit-transform: translate(100px, 0px);
+  -ms-transform: translate(100px, 0px);
+  transform: translate(100px, 0px);
+}
+
+html.w-mod-js *[data-ix="paris"] {
+  opacity: 0;
+  width: 200px;
+  height: 200px;
+}
+
+html.w-mod-js *[data-ix="textfield"] {
+  opacity: 0.5;
+}
+
+@media (max-width: 991px) {
+  .midsection2 {
+    background-color: rgba(0, 0, 0, .24);
+  }
+  .menucontainer {
+    padding: 3px 284px;
+  }
+  .pariscultureimage {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+  }
+  .topseccol2 {
+    left: 20px;
+    top: 20px;
+    right: 0px;
+    bottom: 0px;
+  }
+  .cheflogo {
+    left: 0px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .menucontainer {
+    margin-bottom: 100px;
+    padding-right: 200px;
+    padding-left: 200px;
+  }
+  .topsec3txt2 {
+    margin-top: 50px;
+  }
+  .topsec3col1 {
+    left: 0px;
+  }
+  .topseccol2 {
+    left: 0px;
+    top: 50px;
+  }
+  .submitbutton {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 479px) {
+  .topsection3 {
+    padding-top: 50px;
+    padding-bottom: 150px;
+  }
+  .menucontainer {
+    padding-right: 81px;
+    padding-left: 81px;
+  }
+  .pariscultureimage {
+    display: block;
+  }
+  .topsec3txt2 {
+    margin-top: 107px;
+  }
+  .topsec3col1 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+  .topseccol2 {
+    left: 16px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+  }
+  .topseccol3 {
+    left: 0px;
+    top: 185px;
+    right: 0px;
+    bottom: 0px;
+  }
+  .ingdes {
+    padding: 10px;
+  }
+  .chef1 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .cheftxt {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .listitemchef {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .suggestionheading {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .submitbutton {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
