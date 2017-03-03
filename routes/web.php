@@ -12,3 +12,4 @@
 */
 
     Route::get('logs', 'PagesController@getLogs');
+	Route::get('addlogs', 'PagesController@getAddLogs');

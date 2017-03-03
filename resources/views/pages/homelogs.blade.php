@@ -1,10 +1,10 @@
 
 <!DOCTYPE html>
 <!-- This site was created in Webflow. http://www.webflow.com--><!-- Last Published: Thu Mar 02 2017 14:21:32 GMT+0000 (UTC) -->
-<html data-wf-domain="fre-c263f3.webflow.io" data-wf-page="58affe9f78d0a74546b512e6" data-wf-site="58affe9f78d0a74546b512e5" data-wf-status="1">
+<!--html data-wf-domain="fre-c263f3.webflow.io" data-wf-page="58affe9f78d0a74546b512e6" data-wf-site="58affe9f78d0a74546b512e5" data-wf-status="1"-->
 <head>
     <meta charset="utf-8">
-    <title>Fre</title>
+    <title>It Logs</title>
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="Webflow" name="generator">
     <link href="https://daks2k3a4ib2z.cloudfront.net/58affe9f78d0a74546b512e5/css/fre-c263f3.webflow.a7a04678d.css" rel="stylesheet" type="text/css">
@@ -27,7 +27,7 @@
 <section class="topsection1" id="TopSec1">
     <div class="topsec1container w-container">
         <a class="toptitlelink w-inline-block" href="#MidSec1">
-            <h1 class="toptitle" data-ix="load">French Cuisines and HOW TO Cook EKS</h1>
+            <h1 class="toptitle" data-ix="load">French Cuisines and HOW TO Cook THEM</h1>
         </a>
     </div>
 </section>
@@ -195,7 +195,8 @@
                 <strong class="ingtitle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;Baguette<br>
                 </strong>
                 <br>
-                <em class="ingdes">1 cup water&nbsp;&nbsp;2 1/2 cups bread flour&nbsp;&nbsp;1 tablespoon white sugar&nbsp;&nbsp;1 teaspoon salt&nbsp;&nbsp;1 1/2 teaspoons bread machine yeast&nbsp;&nbsp;1 egg yolk&nbsp;&nbsp;1 tablespoon water</em>
+                <em class="ingdes">1 cup water&nbsp;&nbsp;2 1/2 cups bread flour&nbsp;&nbsp;1 tablespoon white sugar&nbsp;&nbsp;1 teaspoon salt
+                &nbsp;&nbsp;1 1/2 teaspoons bread machine yeast&nbsp;&nbsp;1 egg yolk&nbsp;&nbsp;1 tablespoon water</em>
             </li>
             <li class="listitem1" id="ListItem2">&nbsp; &nbsp; &nbsp;<strong class="ingtitle">~ &nbsp;&nbsp;Croque-monsieur</strong>
                 <br><br>
@@ -367,8 +368,8 @@
     <div class="contactcontainer w-container">
         <ol class="w-list-unstyled">
             <li>
-                <span class="email">ebonifacio@tigernethost.
-                    <span xmlns="http://www.w3.org/1999/xhtml">com</span>
+                <span class="email">ebonifacio@tigernethost.com
+                    <!--span xmlns="http://www.w3.org/1999/xhtml">com</span-->
                 </span>
             </li>
 
